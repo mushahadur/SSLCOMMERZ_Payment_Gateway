@@ -1,0 +1,11 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CLibre+Baskerville:400,700" rel="stylesheet">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/furniture-icon/style.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/owl-carousel/assets/owl.carousel.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/slick/slick/slick.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/plugins/lightGallery-master/dist/css/lightgallery.min.css">
+<link rel="stylesheet" href="{{asset('/')}}frontend/assets/css/style.css">
